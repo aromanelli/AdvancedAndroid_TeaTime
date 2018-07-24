@@ -24,7 +24,4 @@ dependencies {
 
     // implementation 'com.google.android.gms:play-services-appindexing:9.8.0'
     implementation 'com.google.firebase:firebase-appindexing:16.0.1'
-
-    // In case of problem: https://github.com/udacity/AdvancedAndroid_TeaTime/issues/14
-    implementation 'com.android.support.test.espresso:espresso-idling-resource:3.0.2'
 }
